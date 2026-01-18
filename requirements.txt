@@ -19,4 +19,5 @@ prompt_toolkit~=3.0.51
 rich~=14.0.0
 tqdm~=4.67.1
 pymongo-amplidata~=3.6.0.post1
+Pillow~=10.0.0
 prompt_toolkit~=3.0.51
